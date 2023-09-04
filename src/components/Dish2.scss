@@ -1,0 +1,39 @@
+.Menu-list1 {
+    display: grid;
+    padding-bottom: 500px;
+}
+
+table td {
+    table-layout: auto;
+}
+
+.td-dish {
+    width: 100px;
+}
+
+td {
+    width: 350px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#rectangle {
+    display: flex;
+    width: 200px;
+    height: 50px;
+    background: #fecc28;
+    border-bottom: 100px;
+}
+
+.title {
+    display: flex;
+    width: 50%;
+    height: 40%;
+    font-size: 2.4em;
+    justify-content: center;
+    padding-left: 35px;
+}
+
+.menu-view {
+    display: flexbox;
+}
