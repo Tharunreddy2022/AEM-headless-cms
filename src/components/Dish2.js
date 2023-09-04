@@ -38,7 +38,7 @@ function Dish() {
         <div>
             <table borde="2">
                 <td><div id="rectangle"> 
-                <div className = "title">VEG</div></div>
+                <div className = "title">NON VEG</div></div>
                 </td>
             </table>
         </div>
